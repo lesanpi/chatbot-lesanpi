@@ -1,3 +1,59 @@
-
 Hola, como estas?	Bien y tu como andas? 
-hola 	hola como estas ? 
+Hola como andas?	Bien y tu, que haces? 
+Hola, como estas?	Hola, bien y tu? 
+Ando en clases.	Ah esta bien. 
+Es dificil.	Uy. Tengo un poquito de miedo. 
+No bueno, trataria de hacerlo yo.	Claro, si me lanzas eso me traumo. 
+A ti te falta por aprender.	JAJAJA Tu me lo explicas sencillo. 
+Que haces?	Estoy haciendo una tarea de portugues. 
+Esta bien, amor.	Si tardo en responder es eso. 
+Hola	Hola 
+Que haces? Que hiciste hoy?	Estoy en clases, amor.
+Esta bien. Me avisas.	Te aviso. 
+Estas bien?	Si y tu?  
+Si, que haces?	Nada, sentada en el sofa, viendo television. 
+Ah esta bien. 	Tu, que haces? 
+Nada, en la laptop programando. 	Y que andas programando? 
+Algo de inteligencia artificial.	Eso, que bueno, amor. 
+Te amo.	Yo mas. 
+Que haces?	Tomo teragrip. Y tu? 
+Ando en la laptop	Ah esta bien. 
+Ma�ana me levanto temprano.	Yo ando en la laptop. Me atrase hoy. 
+Con la universidad?	Si. Intentare terminar algo 
+Esta bien amor.	Pero me siento medio mal todavia. 
+Hola amor.	Hola amor, como estas? 
+Acostado en la cama.	Que rico. 
+Estoy viendo South Park	Eso, yo ando viendo Los Simpsons 
+Esta bien	En un ratico, apago todo. 
+Te vas a dormir tan temprano?	Es que ma�ana tengo que pararme temprano. 
+Bueno, esta bien.	Me siento medio mal. 
+Que tienes?	Tengo como fiebre, me duele la cabeza. 
+Tomate una pastilla.	Si, ya me la tome. 
+Que bueno.	Que haces? 
+Nada, sigo viendo TV y hablo contigo.	Ya apague todo. 
+Hola amor	Hola amor. Como estas? 
+Bien y tu? Te amo.	Bien. Yo m�s. 
+Como estas?	Bien y tu? 
+Bien	Como estas? 
+Bien amor y tu? Ando limpiando.	Ah esta bien. Me avisas cuando termines 
+Hola amor.	Hola amor. 
+Que haces?	Ando haciendo el almuerzo. Y tu? 
+Hola	Hola amor 
+Hola	Hola amor 
+Hola	Hola amor 
+hola amor	Hola amor, que haces? 
+hola amor	Hola amor, que haces? 
+nada y tu ? como andas ?	Bien, estoy viendo television en la sala. 
+hola amor	Hola amor, como estas? 
+bien y tu ?	Bien, bien. Ando viendo television 
+hola	Hola amor 
+Estoy cansado.	Por que estas cansado? 
+No se, amor.	Que hiciste hoy? 
+No mucho, en verdad.	Ah esta bien. 
+bien amor . que haces ?	Bien, estoy viendo television 
+ah esta bien amor .	Tu que haces? 
+estoy cansado	Por que estas cansado? 
+como andas ?	Bien amor y tu? 
+bien amor cansado	Por que estas cansado? 
+hola amor	hola amor como estas ? 
+bien y tu ?	bien, ando viendo television 
